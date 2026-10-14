@@ -226,6 +226,39 @@ outliers)
 
 The plan above assumed a brand-new channel. You already have one, so this section changes it in three ways: **reuse the channel, rebrand it, and lead with long-form**.
 
+### 9.0 Channel audit: @the30secondagent (pulled 14 Oct 2026)
+- **Positioning today:** "AI shortcuts that do your real estate marketing for you". Audience is real estate agents; content is copy-paste prompts for listings, posts and lead replies.
+- **Stats:** 50 subscribers, 6 videos, **all Shorts, 0 long-form.** The description promises "one full walkthrough video" a week, but none exists yet.
+
+| Short | Views |
+|---|---|
+| Does ChatGPT Recommend YOU? Most Agents Are Invisible | 59 |
+| I Wrote This Listing in 30 Seconds With AI | 53 |
+| Never Let AI Write THIS in Your Listing | 33 |
+| Reply to New Leads in 10 Seconds | 6 |
+| Turn 1 Listing Into 3 Posts in 30 Seconds | 2 |
+| Fixing a "STUNNING Must-See" Listing in 30 Seconds | 2 |
+
+**What this tells us**
+1. **YouTube's Shorts feed isn't picking the videos up.** A healthy Short gets hundreds to thousands of views within a few days, even on a new channel. 2–59 views means the feed tested them, viewers swiped away, and distribution stopped.
+2. **Your subscribers aren't watching.** 50 subscribers but under 30 views per video on average suggests most subscribers came from people you know rather than from the content. That's fine at this size, but it's not a base to build on.
+3. **What worked: curiosity and warning hooks.** "Does ChatGPT recommend YOU?" and "Never let AI write THIS" beat the "how-to" titles by about 10–25×, and "I wrote this in 30 seconds" also did well. Carry this lesson into any new direction.
+4. **The audience ceiling is low.** There are about 1.5M US real estate agents, and most of them won't watch AI-prompt videos. The CPMs are good (B2B, real-estate software advertisers), but it's a small pond, which makes 1,000 subscribers slow and long-form hard to sustain.
+5. **The name fights long-form.** "30 Second Agent" promises short videos and narrows you to agents.
+
+**Bottom line:** At 50 subscribers and 155 total views, there's almost nothing to protect. **Pivot fully, but keep the channel account** (verification, account age, and the handle redirect window).
+
+### 9.0.1 Recommended new direction: housing & home money, in data
+Your current channel shows a real estate angle. If you have real estate knowledge yourself, use it, because personal expertise is the strongest protection against the "inauthentic content" label. The recommendation is to **narrow the §2 finance plan to housing and home money**:
+- **Audience switches from agents to buyers, sellers, renters and homeowners.** That's tens of millions of people, not about 1.5M.
+- **Still among the highest CPMs:** mortgage lenders, insurers, real estate platforms and moving companies all buy ads here.
+- **Long-form works naturally:** "Rent vs buy in 2026: 40 years of data", "Every US metro ranked by how long it takes to save a down payment", "What a $400k house actually costs over 30 years".
+- **Comments come easily:** everyone has a city, a rent and an opinion about the housing market.
+- **Your old content still fits:** realtor-AI ideas can return later as a playlist or a second channel. "Does ChatGPT recommend you?" showed there's real demand for that.
+- **Data:** Zillow and Redfin research data, FHFA house price index, Census ACS (rents, incomes), Freddie Mac mortgage rates, BLS. All are public and free, so the agents can build videos from them.
+
+Name ideas: _Home Money, in Charts_ · _The Housing Numbers_ · _Rent or Buy?_ · _House Math_. The video series in §9.3 apply as written, with housing as the focus: "Does $X Go Further In…" becomes "Does $400k Buy a Home In…"; Myth vs. Data covers housing myths; the Monthly Money Report becomes a monthly housing report built from the Case-Shiller index, mortgage rates and inventory; "What It Actually Costs" covers owning a home.
+
 ### 9.1 Keep the channel or start fresh?
 **Keep it.** You keep the account's age, verification, any watch hours and subscribers, and its upload history. Long-form features (custom thumbnails, uploads over 15 minutes) are already unlocked.
 - Start fresh only if the channel has a strike, was flagged for reused or inauthentic content, or its subscribers came from sub-for-sub or paid promotion. Those subscribers never watch, and they drag down the early signals on new videos.
