@@ -222,6 +222,56 @@ outliers)
 
 ---
 
+## 9. Pivoting the existing channel ("30 Second Agent")
+
+The plan above assumed a brand-new channel. You already have one, so this section changes it in three ways: **reuse the channel, rebrand it, and lead with long-form**.
+
+### 9.1 Keep the channel or start fresh?
+**Keep it.** You keep the account's age, verification, any watch hours and subscribers, and its upload history. Long-form features (custom thumbnails, uploads over 15 minutes) are already unlocked.
+- Start fresh only if the channel has a strike, was flagged for reused or inauthentic content, or its subscribers came from sub-for-sub or paid promotion. Those subscribers never watch, and they drag down the early signals on new videos.
+- Old subscribers who won't care about the new direction do little harm. Shorts and Browse recommendations are mostly tested on non-subscribers anyway.
+
+### 9.2 Rebrand checklist (one afternoon)
+- [ ] **New name and handle.** "30 Second Agent" promises 30-second videos, which works against long-form. Pick a name from §2.3. You can change the handle in YouTube Studio; the old handle stays reserved for 14 days, so links don't break straight away.
+- [ ] New banner, logo, description and keywords, matching the finance-in-charts positioning.
+- [ ] Channel trailer for non-subscribers (45–60 s): "Every week I take one money question and answer it with real data."
+- [ ] **Old videos:** leave any that fit or did well. **Unlist** off-topic ones rather than deleting them. Unlisted videos stop drawing new viewers, but their links still work. One caution: watch hours from unlisted or private videos stop counting toward the Partner Program, so leave public any old video that brought in real watch time.
+- [ ] Post a Community/Shorts announcement: "New direction, here's what's coming." This filters the old audience gently and gives the algorithm a fresh start.
+
+### 9.3 Cadence change: long-form first, Shorts as feeder
+You want more long-form and more engagement, so the mix flips compared with §3.2:
+
+| | New channel plan (§3.2) | **Pivot plan** |
+|---|---|---|
+| Long-form | 2 / week | **3 / week** (Mon, Wed, Sat), 10–15 min |
+| Shorts | 2–3 / day | **1 / day**, cut from that week's long-form videos, each linked to its source video |
+| Live / premiere | none | **1 / month** live "data Q&A" once you pass 100 subs (lives are an engagement multiplier) |
+
+Each long-form video is planned around a **series**, so viewers keep watching more:
+1. **"Does $X Go Further In…"**: state- and city-level comparisons (the engagement engine; people comment their own city).
+2. **"Myth vs. Data"**: test a popular money belief against 30–50 years of data (high retention, people take sides in the comments).
+3. **"The Monthly Money Report"**: inflation, jobs and housing explained the week the data comes out (search traffic and a reason to subscribe).
+4. **"What It Actually Costs"**: car, kid, wedding, pet, college, broken down decade by decade.
+
+Put each series in its own playlist, end every video with an end screen pointing to the *next* video in the series, and add chapters to everything.
+
+### 9.4 Engagement tactics built into the agent pipeline
+The Scriptwriter and Community agents should do these on every video:
+- **Ask a question that's easy to answer in the first 60 s** ("Comment your state, I'll tell you where it ranked"). Then the Community agent actually replies with the answer. People comment more when they know they'll get a reply.
+- **Viewer-requested videos.** Pin a comment asking "Which city/state should I run next?" and make the most-liked request into a video, crediting the commenter by handle. This loop reliably drives comments and repeat viewers.
+- **Community tab polls** 3 times a week ("Guess which state is #1"), with the answer revealed in the next video.
+- **Disagreement on purpose (honest, not bait):** "Myth vs. Data" titles take a clear position. People who disagree comment, and the data backs you up.
+- **Reply within 24 h, heart the best comments, pin one per video.** The agent drafts replies; you approve them in batches during the daily 30-minute review.
+- **One clear subscribe reason**, said once, after the first payoff (around 2 minutes in), never at the start: "I do one of these every week, subscribe so you don't miss the next one."
+
+### 9.5 First 30 days of the pivot
+- **Days 1–3:** rebrand (§9.2) and unlist off-topic videos; build the pipeline on one long-form test video.
+- **Days 4–10:** make a backlog of 6 long-form videos and 10 Shorts.
+- **Day 11 (launch):** announcement post, first long-form video, then the cadence from §9.3.
+- **Weekly:** the Analyst agent reports long-form CTR, average view duration, **comments per 1k views**, returning viewers and subs per 1k views. Kill or keep formats as described in §6. Add the target **comments per 1k views > 5** by day 30.
+
+---
+
 ## Sources
 - [OutlierKit: Most profitable YouTube niches 2026 (CPM/RPM rankings)](https://outlierkit.com/blog/most-profitable-youtube-niches)
 - [OutlierKit: Best YouTube niches 2026 guide](https://outlierkit.com/resources/youtube-niches-guide/)
