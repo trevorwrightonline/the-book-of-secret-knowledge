@@ -1,0 +1,51 @@
+city,county,state,fips
+New York (Brooklyn),Kings County,NY,36047
+Los Angeles,Los Angeles County,CA,06037
+Chicago,Cook County,IL,17031
+Dallas,Dallas County,TX,48113
+Houston,Harris County,TX,48201
+Washington DC,District of Columbia,DC,11001
+Philadelphia,Philadelphia County,PA,42101
+Miami,Miami-Dade County,FL,12086
+Atlanta,Fulton County,GA,13121
+Boston,Suffolk County,MA,25025
+Phoenix,Maricopa County,AZ,04013
+San Francisco,San Francisco County,CA,06075
+Riverside,Riverside County,CA,06065
+Detroit,Wayne County,MI,26163
+Seattle,King County,WA,53033
+Minneapolis,Hennepin County,MN,27053
+San Diego,San Diego County,CA,06073
+Tampa,Hillsborough County,FL,12057
+Denver,Denver County,CO,08031
+Baltimore,Baltimore city,MD,24510
+St. Louis,St. Louis County,MO,29189
+Orlando,Orange County,FL,12095
+Charlotte,Mecklenburg County,NC,37119
+San Antonio,Bexar County,TX,48029
+Portland,Multnomah County,OR,41051
+Sacramento,Sacramento County,CA,06067
+Pittsburgh,Allegheny County,PA,42003
+Austin,Travis County,TX,48453
+Las Vegas,Clark County,NV,32003
+Cincinnati,Hamilton County,OH,39061
+Kansas City,Jackson County,MO,29095
+Columbus,Franklin County,OH,39049
+Indianapolis,Marion County,IN,18097
+Cleveland,Cuyahoga County,OH,39035
+San Jose,Santa Clara County,CA,06085
+Nashville,Davidson County,TN,47037
+Virginia Beach,Virginia Beach city,VA,51810
+Providence,Providence County,RI,44007
+Jacksonville,Duval County,FL,12031
+Milwaukee,Milwaukee County,WI,55079
+Raleigh,Wake County,NC,37183
+Oklahoma City,Oklahoma County,OK,40109
+Memphis,Shelby County,TN,47157
+Richmond,Richmond city,VA,51760
+Louisville,Jefferson County,KY,21111
+New Orleans,Orleans Parish,LA,22071
+Salt Lake City,Salt Lake County,UT,49035
+Birmingham,Jefferson County,AL,01073
+Buffalo,Erie County,NY,36029
+Rochester,Monroe County,NY,36055
