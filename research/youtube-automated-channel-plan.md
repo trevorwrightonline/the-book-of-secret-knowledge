@@ -249,7 +249,7 @@ The plan above assumed a brand-new channel. You already have one, so this sectio
 **Bottom line:** At 50 subscribers and 155 total views, there's almost nothing to protect. **Pivot fully, but keep the channel account** (verification, account age, and the handle redirect window).
 
 ### 9.0.1 Recommended new direction: housing & home money, in data
-Your current channel shows a real estate angle. If you have real estate knowledge yourself, use it, because personal expertise is the strongest protection against the "inauthentic content" label. The recommendation is to **narrow the §2 finance plan to housing and home money**:
+You're not a realtor, so the channel doesn't present itself as an expert voice. It presents itself as **"I ran the numbers so you don't have to."** What makes it credible and original is the analysis: every video runs a fresh calculation on public data, shows its sources on screen, and publishes the method in the description. The recommendation is to **narrow the §2 finance plan to housing and home money**:
 - **Audience switches from agents to buyers, sellers, renters and homeowners.** That's tens of millions of people, not about 1.5M.
 - **Still among the highest CPMs:** mortgage lenders, insurers, real estate platforms and moving companies all buy ads here.
 - **Long-form works naturally:** "Rent vs buy in 2026: 40 years of data", "Every US metro ranked by how long it takes to save a down payment", "What a $400k house actually costs over 30 years".
@@ -302,6 +302,86 @@ The Scriptwriter and Community agents should do these on every video:
 - **Days 4–10:** make a backlog of 6 long-form videos and 10 Shorts.
 - **Day 11 (launch):** announcement post, first long-form video, then the cadence from §9.3.
 - **Weekly:** the Analyst agent reports long-form CTR, average view duration, **comments per 1k views**, returning viewers and subs per 1k views. Kill or keep formats as described in §6. Add the target **comments per 1k views > 5** by day 30.
+
+---
+
+## 10. Three example videos (ready to brief to the agents)
+
+Numbers in `[brackets]` are left for the Data agent to calculate from the listed sources. None are made up here, and none should be made up in production.
+
+### Example 1: Myth vs. Data (long-form, 12–14 min)
+**Title:** Is Renting Really "Throwing Money Away"? I Ran 30 Years of Numbers
+**Thumbnail:** Two lines on a chart crossing, a red "WRONG?" stamp, text: "RENT vs BUY"
+
+**Hook (first 15 s):**
+> "Everyone says renting is throwing money away. So I took two people, one who bought a house in 1995 and one who rented and invested the difference, and tracked every dollar for 30 years. The winner isn't who you think… and it depends on one thing most people never check."
+
+**Outline**
+- **0:15 The rule everyone repeats:** quick montage of the advice.
+- **1:00 The experiment:** Buyer vs Renter. Same income, same starting cash. The buyer pays mortgage, tax, insurance and maintenance. The renter pays rent and invests the difference in an S&P 500 index fund.
+- **3:00 Year by year:** an animated running net-worth chart for both. Show the point where the lines cross.
+- **6:00 The twist:** rerun the experiment for every start year from 1990 to 2020. Show a chart of who wins by start year. Mortgage rates and price-to-rent ratios decide most of it.
+- **9:00 It depends on your city:** 10 metros side by side (price-to-rent ratio).
+- **11:00 The real rule:** a simple test viewers can apply. Price-to-rent above `[X]` → renting often wins; below `[Y]` → buying often wins.
+- **12:30 CTA:** "Comment your city and your rent, and I'll run your numbers in a follow-up video."
+
+**Data:** S&P/Case-Shiller US index (FRED `CSUSHPINSA`), Freddie Mac 30-yr rate (FRED `MORTGAGE30US`), CPI rent of primary residence (FRED `CUSR0000SEHA`), Census ACS median rent and home value by metro, S&P 500 total return.
+
+**Shorts cut from it (3):**
+- "Renting vs buying since 1995: who's richer?" (the chart where the lines cross)
+- "The one number that tells you to rent or buy"
+- "Buying in [best year] vs [worst year]"
+
+**Pinned comment:** "What city should I run next? Most-liked reply gets its own video."
+
+### Example 2: Ranking (long-form, 10–12 min)
+**Title:** How Long It Takes to Save a Down Payment in Every Major US City
+**Thumbnail:** US map in hot and cold colours, one city circled, text: "47 YEARS?!" (use the real maximum from the data)
+
+**Hook:**
+> "In one US city you can save a house down payment in [X] years. In another it would take [Y]. I ranked the 50 biggest metros, and your city is on this list."
+
+**Outline**
+- **0:20 The method in 30 seconds:** median household income, saving 15% a year, a 20% down payment on the median home. A clear on-screen formula builds trust.
+- **1:00 Countdown 50 → 11:** a fast animated bar chart, a map lighting up and one-line notes per city.
+- **5:00 Top 10 fastest and the surprises:** why some cheap cities aren't really cheap once you look at income.
+- **7:30 What changes the answer:** 10% down vs 20%, two incomes vs one, saving 25%. Show an interactive-style slider.
+- **9:30 Since 2000:** how many years it took then vs now, the "why this feels harder" chart.
+- **10:30 CTA:** "Find your city in the chapters. Not on the list? Comment it."
+
+**Data:** Zillow Home Value Index (ZHVI) by metro, Census ACS median household income by metro (B19013), historical values for the then-vs-now comparison.
+
+**Shorts (4, in different formats):** fastest 5, slowest 5, "the then-vs-now chart", and a "guess the city" quiz Short.
+
+**Engagement:** use chapters named after the cities, so people jump to their own city and then comment on it.
+
+### Example 3: What It Actually Costs (long-form, 10–12 min)
+**Title:** The Real Cost of a $400,000 House (It's Not $400,000)
+**Thumbnail:** "$400K" crossed out with the real 30-year total in big red text, a house icon
+
+**Hook:**
+> "This house is listed at $400,000. Over 30 years it will actually cost [$Z]. Here's where every dollar goes, and the one cost that surprises almost every first-time buyer."
+
+**Outline**
+- **0:15 The sticker price:** a counter starts at $400,000 and grows as each cost is added.
+- **1:00 Mortgage interest** at today's average rate: an amortisation chart showing how little principal you pay in year 1.
+- **3:30 Property tax:** same house, cheapest vs most expensive states, shown on a map.
+- **5:00 Insurance, PMI and closing costs.**
+- **6:30 Maintenance:** the "1–2% a year" rule tested against actual spending data.
+- **8:00 Opportunity cost:** what the down payment would have grown to if invested instead.
+- **9:30 Final total and a breakdown donut chart,** plus a "how to cut it" checklist (shop rates, put 20% down to avoid PMI, appeal the tax assessment).
+- **11:00 CTA:** a community-tab poll: "Did you know the total before watching?"
+
+**Data:** Freddie Mac weekly rate (FRED `MORTGAGE30US`), Tax Foundation or Census ACS effective property tax rates by state, ACS insurance and housing-cost tables, Census American Housing Survey for maintenance spending.
+
+**Shorts (3):** "Year 1 of your mortgage: where the money goes", "Same house, two states, very different tax bills", "The 1% rule, tested".
+
+### Why these three
+- Each one belongs to a repeatable series (Myth vs. Data, Rankings, What It Costs), so they're easy to turn into more videos.
+- Each makes you want to comment: your city, your rent, your opinion. Each produces 3–4 Shorts that feed viewers back to it.
+- Each is an original calculation with sources shown, which keeps the channel well clear of "inauthentic content."
+- They reuse the title style that worked on your current Shorts: curiosity and contradiction ("It's Not $400,000", "Really Throwing Money Away?").
+- **Suggested launch order:** Example 3 first (broadest appeal), then 1, then 2. Example 2's city chapters feed the "run my city next" request loop.
 
 ---
 
