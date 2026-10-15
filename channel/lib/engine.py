@@ -189,7 +189,8 @@ def loudnorm(mp4, target=-14):
     """Normalise narration to YouTube's playback loudness (about -14 LUFS)."""
     tmp = mp4 + ".tmp.mp4"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", mp4, "-c:v", "copy",
-                    "-af", f"loudnorm=I={target}:TP=-1.5:LRA=11", "-c:a", "aac", "-b:a", "192k",
+                    "-af", f"loudnorm=I={target}:TP=-1.5:LRA=11", "-ar", "48000", "-ac", "2",  # loudnorm upsamples; resample for players
+                    "-c:a", "aac", "-b:a", "192k",
                     "-movflags", "+faststart", tmp], check=True)
     os.replace(tmp, mp4)
 
