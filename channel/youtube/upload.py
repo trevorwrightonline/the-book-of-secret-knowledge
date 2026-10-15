@@ -1,6 +1,7 @@
 """Upload a rendered video to YouTube with title, description, tags, thumbnail and captions.
 
-Needs env vars YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN (see get_token.py).
+Needs env vars YT_CLIENT_ID and YT_CLIENT_SECRET, plus a login: run device_login.py (phone)
+or set YT_REFRESH_TOKEN (get_token.py, computer).
 
     python3 youtube/upload.py out/v03_real_cost --title "..." [--privacy private] [--publish-at 2026-10-20T22:00:00Z]
 
@@ -21,11 +22,17 @@ UPLOAD = "https://www.googleapis.com/upload/youtube/v3"
 
 
 def access_token():
+    refresh = os.environ.get("YT_REFRESH_TOKEN")
+    token_file = os.path.expanduser("~/.yt_token.json")
+    if not refresh and os.path.exists(token_file):
+        refresh = json.load(open(token_file))["refresh_token"]  # written by device_login.py
     try:
         data = dict(client_id=os.environ["YT_CLIENT_ID"], client_secret=os.environ["YT_CLIENT_SECRET"],
-                    refresh_token=os.environ["YT_REFRESH_TOKEN"], grant_type="refresh_token")
+                    refresh_token=refresh, grant_type="refresh_token")
     except KeyError as e:
-        sys.exit(f"Missing environment variable {e}. See youtube/get_token.py.")
+        sys.exit(f"Missing environment variable {e}. See youtube/device_login.py.")
+    if not refresh:
+        sys.exit("Not logged in. Run youtube/device_login.py (phone) or set YT_REFRESH_TOKEN (get_token.py).")
     r = requests.post("https://oauth2.googleapis.com/token", data=data, timeout=30)
     r.raise_for_status()
     return r.json()["access_token"]
